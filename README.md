@@ -1,4 +1,3 @@
- ![Intro](https://github.com/user-attachments/assets/086c22b6-f77d-46ba-99c8-a97e8147efd2)
 
 ## Hi, I’m Yunhae 👋
 
@@ -28,7 +27,7 @@ I'm a Front-end Developer who loves spend time with code.
 
 | 🌐 blog | 🐙 GitHub | 📧 Email |
 | :--------: | :-------: | :------: |
-| [@yuunhae](https://yuunhae.github.io/) | [@yunhaecho](https://github.com/yunhaecho) | [choyunhae829@gmail.com](choyunhae829@gmail.com) |
+| [@yunhaecho.github.io](https://yunhaecho.github.io/) | [@yunhaecho](https://github.com/yunhaecho) | [choyunhae829@gmail.com](choyunhae829@gmail.com) |
 
 ---
 방문해 주셔서 감사합니다.
