@@ -1,10 +1,6 @@
 
 ## Hi, I’m Yunhae 👋
 
-I'm a Front-end Developer who loves spend time with code.
-
----
-
 ### Tech Stack
 
 - **Languages & Frameworks:** TypeScript, JavaScript (ES6+), React, Next.js
