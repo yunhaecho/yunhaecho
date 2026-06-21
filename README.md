@@ -2,20 +2,18 @@
 ## Hi, I’m Yunhae 👋
 
 ### Tech Stack
-
+-  **Design:** Figma, Illustrator, Photoshop
+- **Styling:** Tailwind CSS 
 - **Languages & Frameworks:** TypeScript, JavaScript (ES6+), React, Next.js
-- **Styling & Design:** Tailwind CSS, Figma 
 
 ---
 
 ### Featured Projects
 
+- **[calendar-ui](https://www.npmjs.com/package/@yundal/calendar-ui?activeTab=readme)**  
+  A clean NPM calendar library that has achieved over 1,900+ downloads.
 - **[EasyShift](https://easy-shift-one.vercel.app/)**  
   A shift management solution for employees and employers.
-- **[calendar-ui](https://www.npmjs.com/package/@yundal/calendar-ui?activeTab=readme)**  
-  A clean NPM calendar library that has achieved over 950+ downloads.
-- **[Start-up Library](https://library-fe-m7rg.vercel.app/)**  
-  A curated digital archive platform for startup resources.
 
 ---
 
@@ -23,7 +21,7 @@
 
 | 🌐 blog | 🐙 GitHub | 📧 Email |
 | :--------: | :-------: | :------: |
-| [@yunhaecho.github.io](https://yunhaecho.github.io/) | [@yunhaecho](https://github.com/yunhaecho) | [choyunhae829@gmail.com](choyunhae829@gmail.com) |
+| [yunhaecho](https://yundal-web-page.vercel.app/) | [@yunhaecho](https://github.com/yunhaecho) | [choyunhae829@gmail.com](choyunhae829@gmail.com) |
 
 ---
 방문해 주셔서 감사합니다.
