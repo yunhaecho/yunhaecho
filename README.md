@@ -1,5 +1,5 @@
 
-## Hi, I’m Yunhae 👋
+## Hi, I’m Yunhae Cho 👋
 
 ### Tech Stack
 -  **Design:** Figma, Illustrator, Photoshop
